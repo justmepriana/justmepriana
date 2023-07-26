@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justmepriana
-- 👀 I’m interested in java,python,html,css,game dewloping etc..
+- 👀 I’m interested in java,python,html,css,game devloping etc..
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
